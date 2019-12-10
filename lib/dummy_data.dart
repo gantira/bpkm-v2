@@ -40,7 +40,7 @@ const WEBSITE_DUMMY_DATA = const [
     name: 'Statistik NIB',
     description: 'Tanjung bira terletak di daerah Sulawesi Selatan. Lokasi khususnya adalah Kabupaten Bulukumba yang jaraknya sangat jauh, sekitar 200 km dari pusat ibukota Makassar. Sehingga tanjung bira bisa diaktakan terletak di ujung selatan daratan sulawesi selatan. Tanjung bira memang bisa dikatakan senjata oleh masyarakat sekitar untuk menarik masyarakat luar dan wisatawan baik lokal maupun asing untuk datang ke sana. Tanjung bira tentu saja menawarkan hal seperti pantai putih, alam bawah laut dan juga pemandangan senja yang tidak ada duanya.',
     category: 'W1',
-    url: "http://35.198.244.49:3001/public/dashboard/5d1bea02-584b-4a97-8953-3087d946fc1b",
+    url: "http://35.198.247.255:3001/public/dashboard/5af7808c-eb49-43b8-a4b0-1a661f9a1aa7",
   ),
   Website(
     id: 'A2',
@@ -55,7 +55,7 @@ const WEBSITE_DUMMY_DATA = const [
     name: 'Izin Usaha',
     description: 'Di sini kamu dapat menemukan banyak rumah tongkonan yang telah berdiri semenjak zaman leluhur. Di atas bagian pintu masuk kamu dapat menemukan kepala kerbau yang ditempelkan di dinding. Dalam budaya masyarakat Toraja, hal tersebut memiliki arti kemakmuran, kejayaan, dan status sosial.',
     category: 'W2',
-    url: "http://35.198.244.49:3001/public/dashboard/367010de-534c-4ca3-9ef3-eb5159def7ff",
+    url: "http://35.198.247.255:3001/public/dashboard/8ae3b5d6-268c-45ac-b784-ddc7dc66a119",
   ),
 
   Website(
@@ -71,7 +71,7 @@ const WEBSITE_DUMMY_DATA = const [
     name: 'Sektor & Lokasi Proyek',
     description: 'Tanjung bira terletak di daerah Sulawesi Selatan. Lokasi khususnya adalah Kabupaten Bulukumba yang jaraknya sangat jauh, sekitar 200 km dari pusat ibukota Makassar. Sehingga tanjung bira bisa diaktakan terletak di ujung selatan daratan sulawesi selatan. Tanjung bira memang bisa dikatakan senjata oleh masyarakat sekitar untuk menarik masyarakat luar dan wisatawan baik lokal maupun asing untuk datang ke sana. Tanjung bira tentu saja menawarkan hal seperti pantai putih, alam bawah laut dan juga pemandangan senja yang tidak ada duanya.',
     category: 'W3',
-    url: "http://35.198.244.49:3001/public/dashboard/78e70bf3-1fc4-404a-bec5-315b92a6547b",
+    url: "http://35.198.247.255:3001/public/dashboard/f8778cca-0475-4e97-b25a-dcebf181325c",
   ),
   Website(
     id: 'A6',
@@ -86,7 +86,7 @@ const WEBSITE_DUMMY_DATA = const [
     name: 'Daerah & Kawasan ',
     description: 'Di sini kamu dapat menemukan banyak rumah tongkonan yang telah berdiri semenjak zaman leluhur. Di atas bagian pintu masuk kamu dapat menemukan kepala kerbau yang ditempelkan di dinding. Dalam budaya masyarakat Toraja, hal tersebut memiliki arti kemakmuran, kejayaan, dan status sosial.',
     category: 'W4',
-    url: "http://35.198.244.49:3001/public/dashboard/fa560d6a-d638-4be9-a509-3e8b022ba3d9",
+    url: "http://35.198.247.255:3001/public/dashboard/6cd11394-dee9-48cf-95e2-747962e090fb",
   ),
 
   Website(
@@ -102,7 +102,7 @@ const WEBSITE_DUMMY_DATA = const [
     name: 'Realisasi Investasi Per Sektor',
     description: 'Tanjung bira terletak di daerah Sulawesi Selatan. Lokasi khususnya adalah Kabupaten Bulukumba yang jaraknya sangat jauh, sekitar 200 km dari pusat ibukota Makassar. Sehingga tanjung bira bisa diaktakan terletak di ujung selatan daratan sulawesi selatan. Tanjung bira memang bisa dikatakan senjata oleh masyarakat sekitar untuk menarik masyarakat luar dan wisatawan baik lokal maupun asing untuk datang ke sana. Tanjung bira tentu saja menawarkan hal seperti pantai putih, alam bawah laut dan juga pemandangan senja yang tidak ada duanya.',
     category: 'W5',
-    url: "http://35.198.244.49:3001/public/dashboard/7caa834d-b294-4203-8dbd-8ade52d50655",
+    url: "http://35.198.247.255:3001/public/dashboard/25276e4d-e89e-4ace-ad7b-c9ec971a396e",
   ),
   Website(
     id: 'A10',
@@ -117,7 +117,7 @@ const WEBSITE_DUMMY_DATA = const [
     name: 'Perusahaan',
     description: 'Di sini kamu dapat menemukan banyak rumah tongkonan yang telah berdiri semenjak zaman leluhur. Di atas bagian pintu masuk kamu dapat menemukan kepala kerbau yang ditempelkan di dinding. Dalam budaya masyarakat Toraja, hal tersebut memiliki arti kemakmuran, kejayaan, dan status sosial.',
     category: 'W6',
-    url: "http://35.198.244.49:3001/public/dashboard/a44752f5-ff97-43c3-a88c-ab21041e99c1",
+    url: "#",
   ),
 
   Website(
@@ -125,6 +125,6 @@ const WEBSITE_DUMMY_DATA = const [
     name: 'UMKM',
     description: 'Suku Kajang Ammatoa terletak di kabupaten Bulukumba, Kecamatan Kajang, Sulawesi Selatan. Desa ini dinamakan Tana Toa yang merupakan tanah yang tertua di dunia dikarenakan kepercayaan masyarakat adatnya. Secara geografis, luas wilayah Desa Kajang Ammatoa sekitar 331,17 ha dan memiliki kondisi hutan yang sangat lebat. Hampir seluruh dusun yang berada di dalamnya di kelilingi hutan dan tidak ada jalan beraspal di dalam kawasan ini.',
     category: 'W6',
-    url: "",
+    url: "http://35.198.247.255:3001/public/dashboard/11779747-cfa9-4d24-9078-5b1ce80dd07d",
   ),
 ];
