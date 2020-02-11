@@ -7,7 +7,7 @@ class CategoryScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
         appBar: AppBar(
-          title: Text("Semeru BKPM Mobiler"),
+          title: Text("Semeru BKPM Mobile"),
         ),
         body: ListView(
           children: CATEGORIES_DUMMY_DATA
